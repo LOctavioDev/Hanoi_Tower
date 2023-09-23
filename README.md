@@ -20,6 +20,6 @@ El objetivo es trasladar todos los discos de la varilla inicial a la varilla fin
 
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="200">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="200">
 </p>
 </div>
